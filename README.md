@@ -1,3 +1,7 @@
+# About
+
+This is the code for site: https://gambler-grove-72840.netlify.app/ and is Based on Hugo.
+
 # Victor Hugo
 
 **A [Hugo](https://gohugo.io/) boilerplate for creating truly epic websites**
